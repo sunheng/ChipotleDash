@@ -1,0 +1,22 @@
+{
+  "name": "chipotle-dash",
+  "version": "1.0.0",
+  "description": "Use Amazon Dash button to quickly place a pick up order from Chipotle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chipotle",
+    "amazon",
+    "dash",
+    "button",
+    "order"
+  ],
+  "author": "Sunheng Taing",
+  "license": "ISC",
+  "dependencies": {
+    "chipsandguac": "^1.1.0",
+    "node-dash-button": "^0.2.5"
+  }
+}
